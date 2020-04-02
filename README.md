@@ -1,2 +1,2 @@
 # miniprojekti
-Määrittelyn ja suunittelun perusteet miniprojekti
+Käytettävyys ja käyttöliittymät –kurssin miniprojekti
